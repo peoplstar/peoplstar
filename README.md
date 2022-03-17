@@ -1,9 +1,9 @@
-<a href="https://www.instagram.com/peoplstar/">
+<a href="https://www.instagram.com/peoplstar_/">
     <img 
         src="http://img.shields.io/badge/-peoplstar-ffffff?style=flat&logo=Instagram&link=https://www.instagram.com/peoplstar/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.instagram.com/peoplstar/">
+<a href="https://www.instagram.com/peoplstar_/">
     <img 
         src="http://img.shields.io/badge/-peoplstar-ffffff?style=flat&logo=Instagram&link=https://www.instagram.com/peoplstar/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
