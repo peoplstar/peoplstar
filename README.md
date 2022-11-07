@@ -3,20 +3,9 @@
         src="http://img.shields.io/badge/-peoplstar-ffffff?style=flat&logo=Instagram&link=https://www.instagram.com/peoplstar/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.instagram.com/peoplstar_/">
-    <img 
-        src="http://img.shields.io/badge/-peoplstar-ffffff?style=flat&logo=Instagram&link=https://www.instagram.com/peoplstar/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=peoplstar)
 ![peoplstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=peoplstar&show_icons=true&theme=graywhite)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peoplstar&layout=compact&theme=graywhite&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asxz3202)](https://solved.ac/asxz3202)
-
-
 
 
 <!--
