@@ -18,16 +18,6 @@
                                                                                                
 ```
 
-&nbsp; ________&nbsp; &nbsp; _______&nbsp; &nbsp; &nbsp; ________&nbsp; &nbsp; ________&nbsp; &nbsp; ___&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ________&nbsp; &nbsp; _________&nbsp; &nbsp; ________&nbsp; &nbsp; ________&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-|\&nbsp; &nbsp; &nbsp; __&nbsp; &nbsp; \|\&nbsp; &nbsp; ___&nbsp; \&nbsp; |\&nbsp; &nbsp; &nbsp; __&nbsp; &nbsp; \|\&nbsp; &nbsp; &nbsp; __&nbsp; &nbsp; \|\&nbsp; &nbsp; \&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |\&nbsp; &nbsp; &nbsp; ____\|\___&nbsp; &nbsp; &nbsp; ___|\&nbsp; &nbsp; &nbsp; __&nbsp; &nbsp; \|\&nbsp; &nbsp; &nbsp; __&nbsp; &nbsp; \&nbsp; <br>&nbsp; &nbsp; &nbsp; 
-\&nbsp; \&nbsp; &nbsp; \|\&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; &nbsp; __/|\&nbsp; \&nbsp; &nbsp; \|\&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \|\&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \&nbsp; &nbsp; &nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \___|\|___&nbsp; \&nbsp; &nbsp; \_\&nbsp; \&nbsp; &nbsp; \|\&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \|\&nbsp; &nbsp; \&nbsp; <br>&nbsp; &nbsp; 
-&nbsp; \&nbsp; \&nbsp; &nbsp; &nbsp; ____\&nbsp; \&nbsp; &nbsp; \_|/_\&nbsp; \&nbsp; &nbsp; \\\&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; &nbsp; ____\&nbsp; \&nbsp; &nbsp; \&nbsp; &nbsp; &nbsp; &nbsp; \&nbsp; \_____&nbsp; &nbsp; \&nbsp; &nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \&nbsp; \&nbsp; \&nbsp; &nbsp; &nbsp; __&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; &nbsp; _&nbsp; &nbsp; _\&nbsp; <br>&nbsp; 
-&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \___|\&nbsp; \&nbsp; &nbsp; \_|\&nbsp; \&nbsp; \&nbsp; &nbsp; \\\&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \___|\&nbsp; \&nbsp; &nbsp; \____\|____|\&nbsp; &nbsp; \&nbsp; &nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \&nbsp; \&nbsp; \&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \&nbsp; \&nbsp; &nbsp; \\&nbsp; &nbsp; \|<br>&nbsp; 
-&nbsp; &nbsp; &nbsp; \&nbsp; \__\&nbsp; &nbsp; &nbsp; &nbsp; \&nbsp; \_______\&nbsp; \_______\&nbsp; \__\&nbsp; &nbsp; &nbsp; &nbsp; \&nbsp; \_______\____\_\&nbsp; &nbsp; \&nbsp; &nbsp; &nbsp; \&nbsp; \__\&nbsp; \&nbsp; \__\&nbsp; \__\&nbsp; \__\\&nbsp; _\<br>&nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; \|__|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|_______|\|_______|\|__|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|_______|\_________\&nbsp; &nbsp; &nbsp; \|__|&nbsp; &nbsp; \|__|\|__|\|__|\|__|<br.
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|_________|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
-
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=peoplstar)
 ![peoplstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=peoplstar&show_icons=true&theme=graywhite)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peoplstar&layout=compact&theme=graywhite&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
