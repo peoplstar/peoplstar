@@ -20,6 +20,9 @@
 
 ## Hi, I am Junior Pentester 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={peoplstar})](https://solved.ac/{peoplstar})
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=peoplstar)
 <!--![peoplstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=peoplstar&show_icons=true&theme=graywhite)   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peoplstar&layout=compact&theme=graywhite&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
